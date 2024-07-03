@@ -1,0 +1,1 @@
+print(10//0) # Da error al dividir por 0 
